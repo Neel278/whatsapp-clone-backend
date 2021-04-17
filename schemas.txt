@@ -1,0 +1,14 @@
+userSchema =>
+mobile
+password
+
+roomSchema =>
+name
+created_by
+created_for
+
+chatSchema =>
+roomId
+message
+timestamp
+sender_id
